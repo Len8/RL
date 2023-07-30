@@ -22,7 +22,7 @@ Hierbei zeigt sich, dass der Agent trainiert. Dennoch sind weitere Optimierungen
   - train_ae_template/: functions from https://github.com/araffin/aae-train-donkeycar with minor changes for autoencoder training
   - sac_donkeycar.ipynb: training of SAC-model
   - test_autoencoder.ipynb: testing the autoencoder
-- 0_1434_478_956_Epochen.mp4: Darstellung des Trainingsverlaufs in den verschiedenen Epochen; nur gerine Verbesserung ersichtlich
+- 0_1434_478_956_Epochen.mp4: Darstellung des Trainingsverlaufs in den verschiedenen Epochen; nur geringe Verbesserung ersichtlich
 - demo_lasst.mp4: Demo des finalen Modells
  
 ## Ausführen
